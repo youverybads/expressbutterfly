@@ -1,0 +1,270 @@
+{
+  "uuid": "378f5dcda8048c2f06f406f768d96b3c",
+  "path": "Offline/expersslrs实际上机v1",
+  "name": "expersslrs实际上机v1",
+  "content": "",
+  "created_at": "2024-03-20 12:58:04",
+  "updated_at": "2024-03-21 17:51:35",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "5675ce9bdd20ffd34fee4549775974d9",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f29f57ac58b24353a27984c5792bbc76": 7,
+        "0d6429eade2a41caad963c3095ad4733": 1,
+        "5d614105c3984ec1bc2131f411546f44": 2,
+        "ffd97fc2bd86431ebd79800114de3c94": 1,
+        "e2e477ab668d4cbb88af09cfe34b9ff4": 1,
+        "fbf3a5c1c6da4d6aaa7fe13c7c563c33": 1,
+        "20b37122052a4452998e1fe41d6cf920": 1,
+        "7dfa22c3c19e48c2b68bd7bbff7461da": 1,
+        "6c56964dcc7b4bbb8a3ac984926bf97a": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "47948-0001",
+          1,
+          "ANT-SMD_47948-0001",
+          "AE1",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C152351",
+            "Manufacturer": "MOLEX",
+            "Manufacturer Part": "",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "47948-0001",
+            "puuid": "d2fb5e4c010444ac8f7e259a46681df1",
+            "uuid": "fbf3a5c1c6da4d6aaa7fe13c7c563c33"
+          }
+        ],
+        [
+          "0.1u",
+          2,
+          "C0402",
+          "C1,C5",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0402_US",
+            "Manufacturer Part": "",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "f29f57ac58b24353a27984c5792bbc76"
+          }
+        ],
+        [
+          "470n",
+          1,
+          "C0402",
+          "C2",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0402_US",
+            "Manufacturer Part": "",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "f29f57ac58b24353a27984c5792bbc76"
+          }
+        ],
+        [
+          "10n",
+          2,
+          "C0402",
+          "C3,C4",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0402_US",
+            "Manufacturer Part": "",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "f29f57ac58b24353a27984c5792bbc76"
+          }
+        ],
+        [
+          "1u",
+          2,
+          "C0402",
+          "C6,C7",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0402_US",
+            "Manufacturer Part": "",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "f29f57ac58b24353a27984c5792bbc76"
+          }
+        ],
+        [
+          "-",
+          1,
+          "FILTER-SMD_4P-L1.0-W0.5-L",
+          "FL1",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2651081",
+            "Manufacturer": "JOHANSON(约翰逊)",
+            "Manufacturer Part": "",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "2450FM07D0034T",
+            "puuid": "e5d8b1d3429c4ebc9addcbef558e99db",
+            "uuid": "e2e477ab668d4cbb88af09cfe34b9ff4"
+          }
+        ],
+        [
+          "100k",
+          1,
+          "R0402",
+          "R1",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0402_US",
+            "Manufacturer Part": "",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "20b37122052a4452998e1fe41d6cf920"
+          }
+        ],
+        [
+          "FM116C",
+          2,
+          "SOT-23-6_L2.9-W1.6-P0.95-LS2.9-BL",
+          "R2,R3",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2802264",
+            "Manufacturer": "FM(富满)",
+            "Manufacturer Part": "",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "FM116C",
+            "puuid": "e55683897aa748bd83cbac4d3883689e",
+            "uuid": "5d614105c3984ec1bc2131f411546f44"
+          }
+        ],
+        [
+          "-",
+          1,
+          "QFN-24_L4.0-W4.0-P0.50-BL-EP2.6",
+          "U1",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C125969",
+            "Manufacturer": "SEMTECH",
+            "Manufacturer Part": "",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "SX1280IMLTRT",
+            "puuid": "124f0b645f6047c498345629b5576efa",
+            "uuid": "6c56964dcc7b4bbb8a3ac984926bf97a"
+          }
+        ],
+        [
+          "STM32G031G8U6",
+          1,
+          "UFQFPN-28_L4.0-W4.0-P0.50-BL",
+          "U2",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C432211",
+            "Manufacturer": "ST(意法半导体)",
+            "Manufacturer Part": "",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "STM32G031G8U6",
+            "puuid": "ed8d7146f17f41f38a26bebb66c5390c",
+            "uuid": "7dfa22c3c19e48c2b68bd7bbff7461da"
+          }
+        ],
+        [
+          "52MHz",
+          1,
+          "SMD-4_L2.0-W1.6-FW520WFMT1",
+          "U4",
+          {
+            "Contributor": "lcsc",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1986193",
+            "Manufacturer": "DIODES(美台)",
+            "Manufacturer Part": "",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "FW520WFMT1",
+            "puuid": "4fc40d40480e4896a24c2d31c46abf73",
+            "uuid": "ffd97fc2bd86431ebd79800114de3c94"
+          }
+        ],
+        [
+          "ZL6205A33TS5",
+          1,
+          "TSOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR",
+          "U5",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "",
+            "Supplier Part": "C485900",
+            "Manufacturer": "ZLG(致远电子)",
+            "Manufacturer Part": "",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "ZL6205A33TS5",
+            "puuid": "302f53df103a4f5ebc8b59e4d437947a",
+            "uuid": "0d6429eade2a41caad963c3095ad4733"
+          }
+        ]
+      ],
+      "updateTime": 1710915593,
+      "createTime": 1710910684,
+      "histories": [],
+      "created_at": "2024-03-20 12:58:04",
+      "updated_at": "2024-03-20 14:19:53"
+    },
+    {
+      "uuid": "d394874bf9e3f789520a596ea8d26a4e",
+      "puuid": "378f5dcda8048c2f06f406f768d96b3c",
+      "title": "PCB_expersslrs实际上机v1",
+      "filename": "PCB_expersslrs实际上机v1.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0821ed6ea50c44f4909e4be7610e4198": 7,
+        "fafd024f554e426eb74cf4a204aa88b0": 1,
+        "e55683897aa748bd83cbac4d3883689e": 2,
+        "ed8d7146f17f41f38a26bebb66c5390c": 1,
+        "d2fb5e4c010444ac8f7e259a46681df1": 1,
+        "e5d8b1d3429c4ebc9addcbef558e99db": 1,
+        "124f0b645f6047c498345629b5576efa": 1,
+        "4fc40d40480e4896a24c2d31c46abf73": 1,
+        "302f53df103a4f5ebc8b59e4d437947a": 1
+      },
+      "BOM": [],
+      "updateTime": 1711014695,
+      "createTime": 1710911693,
+      "histories": [],
+      "created_at": "2024-03-20 13:14:53",
+      "updated_at": "2024-03-21 17:51:35"
+    }
+  ],
+  "sort": [],
+  "title": "expersslrs实际上机v1",
+  "foldername": "expersslrs实际上机v1",
+  "schfilename": "expersslrs实际上机v1.json",
+  "schfilemtime": 1710915593571
+}
